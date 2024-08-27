@@ -1,0 +1,12 @@
+README.md
+setup.py
+mugrade/__init__.py
+mugrade/__main__.py
+mugrade/mugrade.py
+mugrade.egg-info/PKG-INFO
+mugrade.egg-info/SOURCES.txt
+mugrade.egg-info/dependency_links.txt
+mugrade.egg-info/entry_points.txt
+mugrade.egg-info/not-zip-safe
+mugrade.egg-info/requires.txt
+mugrade.egg-info/top_level.txt

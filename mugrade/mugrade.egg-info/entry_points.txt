@@ -1,0 +1,2 @@
+[console_scripts]
+mugrade = mugrade.__main__:main

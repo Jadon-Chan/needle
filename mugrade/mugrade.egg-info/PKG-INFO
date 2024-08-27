@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mugrade
+Version: 1.2
+Summary: Interface library for minimalist autograding site
+Home-page: http://github.com/locuslab/mugrade
+Author: Zico Kolter
+Author-email: zkolter@cs.cmu.edu
+Requires-Python: >=3.5
